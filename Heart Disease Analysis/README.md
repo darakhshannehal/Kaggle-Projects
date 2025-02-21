@@ -4,3 +4,4 @@ This project explores various factors contributing to heart disease through comp
 
 ![View the Analysis](Heart_Disease_Analysis/Heart_Disease_Analysis.html)
 
+<a href="Heart_Disease_Analysis.html">Heart Disease Analysis Report</a>
