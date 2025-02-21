@@ -1,5 +1,8 @@
-# Heart Disease Analysis
+# Heart Disease Data Exploration
 
-This project explores various factors contributing to heart disease through comprehensive data visualization and statistical analysis, aiming to provide insights into the patterns and distributions of critical health variables.
+This repository contains an exploratory data analysis (EDA) of a heart disease dataset. The analysis aims to visualize and understand the distribution of various clinical features and their relationship to heart disease status.
 
-[For full analysis](Heart_Disease_Analysis.qmd)
+The dataset used in this analysis is `heart_disease_data.csv` (from the Kaggle heart disease dataset). 
+
+This EDA provides a visual overview of the heart disease dataset and explores potential relationships between clinical features and heart disease status. Further analysis, such as statistical modeling, could be performed to draw more definitive conclusions.
+
