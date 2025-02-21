@@ -2,4 +2,4 @@
 
 This project explores various factors contributing to heart disease through comprehensive data visualization and statistical analysis, aiming to provide insights into the patterns and distributions of critical health variables.
 
-<a href="Heart_Disease_Analysis.html">Heart Disease Analysis Report</a>
+[For full analysis](Heart_Disease_Analysis.qmd)
