@@ -6,4 +6,4 @@ The dataset used in this analysis is `heart_disease_data.csv` (from the Kaggle h
 
 This EDA provides a visual overview of the heart disease dataset and explores potential relationships between clinical features and heart disease status. Further analysis, such as statistical modeling, could be performed to draw more definitive conclusions.
 
-#### [Full Analysis](Heart_Disease_Analysis.qmd)
+#### [Full Analysis](https://darakhshannehal.quarto.pub/heart-disease-analysis/#eda)
