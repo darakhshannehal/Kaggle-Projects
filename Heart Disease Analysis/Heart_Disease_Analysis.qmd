@@ -237,7 +237,7 @@ ggplot(aes(x = factor(fbs), y = count, fill = factor(target))) +
 
 #### Resting Blood Pressure Distribution
 
-```{ndefined{r}
+```{r}
 
 heart_disease_data %>% 
 ggplot(aes(trestbps)) +
